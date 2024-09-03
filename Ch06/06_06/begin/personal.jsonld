@@ -1,0 +1,13 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Person",
+  "name": "Till Lindemann",
+  "url": "https://en.wikipedia.org/wiki/Till_Lindemann",
+  "birthPlace": "Leipzig, East Germany",
+  "hasOccupation": {
+    "@atype": "Role",
+    "roleName": "Singer, songwriter, poet",
+    "startDate": "1986",
+    "endDate": "Present"
+  }
+}
